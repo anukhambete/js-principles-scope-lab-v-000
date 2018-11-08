@@ -15,5 +15,5 @@ function overwriteBestCustomer () {
 
 const leastFavoriteCustomer = 'random';
 function changeLeastFavoriteCustomer () {
-
+  
 }
